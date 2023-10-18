@@ -1,0 +1,32 @@
+ayo check it, banger idea right here
+
+a fighting game, but from a top down perspective.
+
+fighting games from a side angle are very common
+
+####################################
+#                                  #
+# guy 1                      guy2  #
+#  ____                      ____  #
+# ( o_o)                    (o_o ) #
+#   |< hadoken              --|--  #
+#   |                         |    #
+#  / \                       / \   #
+####################################
+
+but have you ever seen one from a 2d zelda angle?
+
+####################################
+#           P1                     #
+#         o(._.)o                  #
+#                                  #
+#                                  #
+#               o hadoken          #
+#         o(   )                   #
+#            P2                    #
+####################################
+
+walking and running in 4 directions opens up a ton of new options
+instead of left-right mixups, you have left-right-down-up mixups. awesome
+this type of fighter could also have unique stage geometry, so that'd be pretty cool
+i hope this is a fun concept that can be well executed.
